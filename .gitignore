@@ -1,0 +1,32 @@
+# Generated experiment artifacts
+/outputs/
+/results/
+/result/
+/logs/
+/checkpoints/
+/generated_data_splits/
+*.log
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Excluded training variant
+**/*[Gg][Rr][Pp][Oo]*
+
+# Local datasets and model weights
+/models/
+/data/SocioBench/
+/data/wvs/*.csv
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Editor and operating-system files
+.DS_Store
+.idea/
+.vscode/

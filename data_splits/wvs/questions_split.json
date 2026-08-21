@@ -1,0 +1,1045 @@
+{
+  "metadata": {
+    "total": 259,
+    "train_count": 207,
+    "test_count": 52,
+    "ratio": "4:1",
+    "source": "WVS Wave 7 question inventory"
+  },
+  "train": [
+    {
+      "id": "Q1",
+      "content": "Family: How important is it in your life?"
+    },
+    {
+      "id": "Q3",
+      "content": "Leisure time: How important is it in your life?"
+    },
+    {
+      "id": "Q4",
+      "content": "Politics: How important is it in your life?"
+    },
+    {
+      "id": "Q5",
+      "content": "Work: How important is it in your life?"
+    },
+    {
+      "id": "Q6",
+      "content": "Religion: How important is it in your life?"
+    },
+    {
+      "id": "Q10",
+      "content": "Feeling of responsibility: Do you consider it an important quality for children to learn?"
+    },
+    {
+      "id": "Q11",
+      "content": "Imagination: Do you consider it an important quality for children to learn?"
+    },
+    {
+      "id": "Q12",
+      "content": "Tolerance and respect for other people: Do you consider it an important quality for children to learn?"
+    },
+    {
+      "id": "Q14",
+      "content": "Determination, perseverance: Do you consider it an important quality for children to learn?"
+    },
+    {
+      "id": "Q15",
+      "content": "Religious faith: Do you consider it an important quality for children to learn?"
+    },
+    {
+      "id": "Q16",
+      "content": "Not being selfish (unselfishness): Do you consider it an important quality for children to learn?"
+    },
+    {
+      "id": "Q17",
+      "content": "Obedience: Do you consider it an important quality for children to learn?"
+    },
+    {
+      "id": "Q18",
+      "content": "Would you not like to have drug addicts as neighbors?"
+    },
+    {
+      "id": "Q19",
+      "content": "Would you not like to have people of a different race as neighbors?"
+    },
+    {
+      "id": "Q20",
+      "content": "Would you not like to have people who have AIDS as neighbors?"
+    },
+    {
+      "id": "Q21",
+      "content": "Would you not like to have immigrants/foreign workers as neighbors?"
+    },
+    {
+      "id": "Q22",
+      "content": "Would you not like to have homosexuals as neighbors?"
+    },
+    {
+      "id": "Q26",
+      "content": "Would you not like to have people who speak a different language as neighbors?"
+    },
+    {
+      "id": "Q28",
+      "content": "When a mother works for pay, the children suffer."
+    },
+    {
+      "id": "Q29",
+      "content": "On the whole, men make better political leaders than women do."
+    },
+    {
+      "id": "Q30",
+      "content": "A university education is more important for a boy than for a girl."
+    },
+    {
+      "id": "Q31",
+      "content": "On the whole, men make better business executives than women do."
+    },
+    {
+      "id": "Q32",
+      "content": "Being a housewife is just as fulfilling as working for pay."
+    },
+    {
+      "id": "Q33",
+      "content": "When jobs are scarce, men should have more right to a job than women."
+    },
+    {
+      "id": "Q34",
+      "content": "When jobs are scarce, employers should give priority to people of this country over immigrants."
+    },
+    {
+      "id": "Q35",
+      "content": "If a woman earns more money than her husband, it's almost certain to cause problems."
+    },
+    {
+      "id": "Q37",
+      "content": "It is a duty towards society to have children."
+    },
+    {
+      "id": "Q38",
+      "content": "Adult children have the duty to provide long-term care for their parents."
+    },
+    {
+      "id": "Q39",
+      "content": "People who don't work turn lazy."
+    },
+    {
+      "id": "Q42",
+      "content": "Which of the following best describes your opinion about society? "
+    },
+    {
+      "id": "Q43",
+      "content": "Would it be a good thing, bad thing, or don't you mind if there was less importance placed on work in our lives?"
+    },
+    {
+      "id": "Q44",
+      "content": "Would it be a good thing, bad thing, or don't you mind if there was more emphasis on the development of technology?"
+    },
+    {
+      "id": "Q45",
+      "content": "Would it be a good thing, bad thing, or don't you mind if there was greater respect for authority?"
+    },
+    {
+      "id": "Q46",
+      "content": "Taking all things together, would you say you are:"
+    },
+    {
+      "id": "Q47",
+      "content": "All in all, how would you describe your state of health these days?"
+    },
+    {
+      "id": "Q48",
+      "content": "How much freedom of choice and control do you feel you have over the way your life turns out?"
+    },
+    {
+      "id": "Q49",
+      "content": "All things considered, how satisfied are you with your life as a whole these days?"
+    },
+    {
+      "id": "Q50",
+      "content": "How satisfied are you with the financial situation of your household?"
+    },
+    {
+      "id": "Q52",
+      "content": "In the last 12 months, how often have you or your family felt unsafe from crime in your home?"
+    },
+    {
+      "id": "Q53",
+      "content": "In the last 12 months, how often have you or your family gone without medicine or medical treatment that you needed?"
+    },
+    {
+      "id": "Q54",
+      "content": "In the last 12 months, how often have you or your family gone without a cash income?"
+    },
+    {
+      "id": "Q55",
+      "content": "In the last 12 months, how often have you or your family gone without a safe shelter over your head?"
+    },
+    {
+      "id": "Q59",
+      "content": "How much do you trust your neighborhood?"
+    },
+    {
+      "id": "Q61",
+      "content": "How much do you trust people you meet for the first time?"
+    },
+    {
+      "id": "Q62",
+      "content": "How much do you trust people of another religion?"
+    },
+    {
+      "id": "Q63",
+      "content": "How much do you trust people of another nationality?"
+    },
+    {
+      "id": "Q64",
+      "content": "How much confidence do you have in the churches?"
+    },
+    {
+      "id": "Q65",
+      "content": "How much confidence do you have in the armed forces?"
+    },
+    {
+      "id": "Q66",
+      "content": "How much confidence do you have in the press?"
+    },
+    {
+      "id": "Q67",
+      "content": "How much confidence do you have in television?"
+    },
+    {
+      "id": "Q68",
+      "content": "How much confidence do you have in labor unions?"
+    },
+    {
+      "id": "Q69",
+      "content": "How much confidence do you have in the police?"
+    },
+    {
+      "id": "Q70",
+      "content": "How much confidence do you have in the courts?"
+    },
+    {
+      "id": "Q71",
+      "content": "How much confidence do you have in the government?"
+    },
+    {
+      "id": "Q73",
+      "content": "How much confidence do you have in parliament?"
+    },
+    {
+      "id": "Q74",
+      "content": "How much confidence do you have in the civil service?"
+    },
+    {
+      "id": "Q75",
+      "content": "How much confidence do you have in universities?"
+    },
+    {
+      "id": "Q76",
+      "content": "How much confidence do you have in elections?"
+    },
+    {
+      "id": "Q77",
+      "content": "How much confidence do you have in major companies?"
+    },
+    {
+      "id": "Q78",
+      "content": "How much confidence do you have in banks?"
+    },
+    {
+      "id": "Q79",
+      "content": "How much confidence do you have in environmental organizations?"
+    },
+    {
+      "id": "Q80",
+      "content": "How much confidence do you have in women's organizations?"
+    },
+    {
+      "id": "Q81",
+      "content": "How much confidence do you have in charitable or humanitarian organizations?"
+    },
+    {
+      "id": "Q82",
+      "content": "How much confidence do you have in the European Union (or relevant regional organization)?"
+    },
+    {
+      "id": "Q83",
+      "content": "How much confidence do you have in the United Nations?"
+    },
+    {
+      "id": "Q84",
+      "content": "How much confidence do you have in the International Monetary Fund (IMF)?"
+    },
+    {
+      "id": "Q85",
+      "content": "How much confidence do you have in the International Criminal Court (ICC)?"
+    },
+    {
+      "id": "Q86",
+      "content": "How much confidence do you have in the North Atlantic Treaty Organization (NATO)?"
+    },
+    {
+      "id": "Q89",
+      "content": "How much confidence do you have in the World Trade Organization (WTO)?"
+    },
+    {
+      "id": "Q90",
+      "content": "Should international organizations prioritize being effective or being democratic?"
+    },
+    {
+      "id": "Q91",
+      "content": "Which one of the following is NOT a member of the United Nations Security Council?"
+    },
+    {
+      "id": "Q92",
+      "content": "Where are the headquarters of the International Monetary Fund (IMF) located?"
+    },
+    {
+      "id": "Q93",
+      "content": "Which of the following problems does Amnesty International deal with?"
+    },
+    {
+      "id": "Q94",
+      "content": "Are you an active member, an inactive member, or not a member of a church or religious organization?"
+    },
+    {
+      "id": "Q95",
+      "content": "Are you an active member, an inactive member, or not a member of a labor union?"
+    },
+    {
+      "id": "Q96",
+      "content": "Are you an active member, an inactive member, or not a member of a political party?"
+    },
+    {
+      "id": "Q97",
+      "content": "Are you an active member, an inactive member, or not a member of an environmental organization?"
+    },
+    {
+      "id": "Q99",
+      "content": "Are you an active member, an inactive member, or not a member of an art, music, or educational organization?"
+    },
+    {
+      "id": "Q100",
+      "content": "Are you an active member, an inactive member, or not a member of a professional association?"
+    },
+    {
+      "id": "Q101",
+      "content": "Are you an active member, an inactive member, or not a member of a humanitarian or charitable organization?"
+    },
+    {
+      "id": "Q102",
+      "content": "Are you an active member, an inactive member, or not a member of a consumer organization?"
+    },
+    {
+      "id": "Q103",
+      "content": "Are you an active member, an inactive member, or not a member of a self-help group or mutual aid group?"
+    },
+    {
+      "id": "Q104",
+      "content": "Are you an active member, an inactive member, or not a member of a women’s group?"
+    },
+    {
+      "id": "Q105",
+      "content": "Are you an active member, an inactive member, or not a member of any other type of organization?"
+    },
+    {
+      "id": "Q106",
+      "content": "How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between."
+    },
+    {
+      "id": "Q107",
+      "content": "How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between."
+    },
+    {
+      "id": "Q110",
+      "content": "How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between."
+    },
+    {
+      "id": "Q111",
+      "content": "Which of the following comes closer to your view? (1 = Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs, 2 = Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent)"
+    },
+    {
+      "id": "Q112",
+      "content": "How would you place your views on corruption in your country? (1 = There is no corruption in my country, 10 = There is abundant corruption in my country)"
+    },
+    {
+      "id": "Q113",
+      "content": "How many state authorities do you believe are involved in corruption?"
+    },
+    {
+      "id": "Q114",
+      "content": "How many business executives do you believe are involved in corruption?"
+    },
+    {
+      "id": "Q116",
+      "content": "How many civil service providers do you believe are involved in corruption?"
+    },
+    {
+      "id": "Q117",
+      "content": "How many journalists and media people do you believe are involved in corruption?"
+    },
+    {
+      "id": "Q118",
+      "content": "We want to know about your experience with local officials and service providers, like police officers, lawyers, doctors, teachers and civil servants in your community. How often do you think ordinary people like yourself or people from your neighbourhood have to pay a bribe, give a gift or do a favor to these people in order to get the services you need? Does it happen never, rarely, frequently or always?"
+    },
+    {
+      "id": "Q119",
+      "content": "Can you tell me how strongly you agree or disagree with the following statement: “on the whole, women are less corrupt than men”?"
+    },
+    {
+      "id": "Q120",
+      "content": "How high is the risk in this country to be held accountable for giving or receiving a bribe, gift or favor in return for public service? To indicate your opinion, use a 10-point scale where “1” means “no risk at all” and “10” means “very high risk”."
+    },
+    {
+      "id": "Q121",
+      "content": "How would you evaluate the impact of immigrants on the development of your country?"
+    },
+    {
+      "id": "Q122",
+      "content": "Do you agree that immigration fills important job vacancies?"
+    },
+    {
+      "id": "Q123",
+      "content": "Do you agree that immigration strengthens cultural diversity?"
+    },
+    {
+      "id": "Q124",
+      "content": "Do you agree that immigration increases the crime rate?"
+    },
+    {
+      "id": "Q125",
+      "content": "Do you agree that immigration gives asylum to political refugees who are persecuted elsewhere?"
+    },
+    {
+      "id": "Q127",
+      "content": "Do you agree that immigration offers people from poor countries a better living?"
+    },
+    {
+      "id": "Q128",
+      "content": "Do you agree that immigration increases unemployment?"
+    },
+    {
+      "id": "Q129",
+      "content": "Do you agree that immigration leads to social conflict?"
+    },
+    {
+      "id": "Q131",
+      "content": "How secure do you feel these days?"
+    },
+    {
+      "id": "Q132",
+      "content": "How frequently do robberies occur in your neighborhood?"
+    },
+    {
+      "id": "Q133",
+      "content": "How frequently does alcohol consumption in the streets occur in your neighborhood?"
+    },
+    {
+      "id": "Q134",
+      "content": "How frequently do police or military interfere with people’s private life in your neighborhood?"
+    },
+    {
+      "id": "Q135",
+      "content": "How frequently does racist behavior occur in your neighborhood?"
+    },
+    {
+      "id": "Q136",
+      "content": "How frequently does drug sale occur in the streets of your neighborhood?"
+    },
+    {
+      "id": "Q137",
+      "content": "How frequently does street violence and fights occur in your neighborhood?"
+    },
+    {
+      "id": "Q138",
+      "content": "How frequently does sexual harassment occur in your neighborhood?"
+    },
+    {
+      "id": "Q139",
+      "content": "Have you not carried much money for reasons of security?"
+    },
+    {
+      "id": "Q142",
+      "content": "To what degree are you worried about losing your job or not finding a job?"
+    },
+    {
+      "id": "Q143",
+      "content": "To what degree are you worried about not being able to give your children a good education?"
+    },
+    {
+      "id": "Q145",
+      "content": "Has someone in your family been the victim of a crime during the past year?"
+    },
+    {
+      "id": "Q146",
+      "content": "To what degree are you worried about a war involving your country?"
+    },
+    {
+      "id": "Q147",
+      "content": "To what degree are you worried about a terrorist attack?"
+    },
+    {
+      "id": "Q148",
+      "content": "To what degree are you worried about a civil war?"
+    },
+    {
+      "id": "Q149",
+      "content": "If you had to choose between freedom and equality, which one would you consider more important?"
+    },
+    {
+      "id": "Q150",
+      "content": "If you had to choose between freedom and security, which one would you consider more important?"
+    },
+    {
+      "id": "Q153",
+      "content": "Which of the following goals should be the second most important for the country over the next ten years?"
+    },
+    {
+      "id": "Q154",
+      "content": "Which of the following is most important for the country?"
+    },
+    {
+      "id": "Q156",
+      "content": "In your opinion, which of the following is most important?"
+    },
+    {
+      "id": "Q157",
+      "content": "In your opinion, which of the following is the second most important?"
+    },
+    {
+      "id": "Q158",
+      "content": "Science and technology are making our lives healthier, easier, and more comfortable."
+    },
+    {
+      "id": "Q159",
+      "content": "Because of science and technology, there will be more opportunities for the next generation."
+    },
+    {
+      "id": "Q160",
+      "content": "We depend too much on science and not enough on faith."
+    },
+    {
+      "id": "Q161",
+      "content": "One of the bad effects of science is that it breaks down people's ideas of right and wrong."
+    },
+    {
+      "id": "Q162",
+      "content": "It is not important for me to know about science in my daily life."
+    },
+    {
+      "id": "Q163",
+      "content": "All things considered, would you say that the world is better off or worse off because of science and technology?"
+    },
+    {
+      "id": "Q164",
+      "content": "How important is God in your life?"
+    },
+    {
+      "id": "Q165",
+      "content": "Do you believe in God?"
+    },
+    {
+      "id": "Q166",
+      "content": "Do you believe in life after death?"
+    },
+    {
+      "id": "Q168",
+      "content": "Do you believe in heaven?"
+    },
+    {
+      "id": "Q169",
+      "content": "Whenever science and religion conflict, religion is always right."
+    },
+    {
+      "id": "Q170",
+      "content": "The only acceptable religion is my religion."
+    },
+    {
+      "id": "Q171",
+      "content": "Apart from weddings and funerals, about how often do you attend religious services these days?"
+    },
+    {
+      "id": "Q172",
+      "content": "Apart from weddings and funerals, about how often do you pray?"
+    },
+    {
+      "id": "Q173",
+      "content": "Independently of whether you attend religious services or not, would you say you are:"
+    },
+    {
+      "id": "Q175",
+      "content": "With which of the following statements do you agree most? The basic meaning of religion is:"
+    },
+    {
+      "id": "Q176",
+      "content": "How much do you agree or disagree with the statement that nowadays one often has trouble deciding which moral rules are the right ones to follow?"
+    },
+    {
+      "id": "Q177",
+      "content": "Please tell me whether you think claiming government benefits to which you are not entitled can always be justified, never be justified, or something in between."
+    },
+    {
+      "id": "Q178",
+      "content": "Please tell me whether you think avoiding a fare on public transport can always be justified, never be justified, or something in between."
+    },
+    {
+      "id": "Q181",
+      "content": "Please tell me whether you think someone accepting a bribe in the course of their duties can always be justified, never be justified, or something in between."
+    },
+    {
+      "id": "Q182",
+      "content": "Please tell me whether you think homosexuality can always be justified, never be justified, or something in between."
+    },
+    {
+      "id": "Q183",
+      "content": "Please tell me whether you think prostitution can always be justified, never be justified, or something in between."
+    },
+    {
+      "id": "Q185",
+      "content": "Please tell me whether you think divorce can always be justified, never be justified, or something in between."
+    },
+    {
+      "id": "Q186",
+      "content": "Please tell me whether you think sex before marriage can always be justified, never be justified, or something in between."
+    },
+    {
+      "id": "Q187",
+      "content": "Please tell me whether you think suicide can always be justified, never be justified, or something in between."
+    },
+    {
+      "id": "Q188",
+      "content": "Please tell me whether you think euthanasia can always be justified, never be justified, or something in between."
+    },
+    {
+      "id": "Q191",
+      "content": "Please tell me whether you think violence against other people can always be justified, never be justified, or something in between."
+    },
+    {
+      "id": "Q192",
+      "content": "Please tell me whether you think terrorism as a political, ideological or religious mean can always be justified, never be justified, or something in between."
+    },
+    {
+      "id": "Q193",
+      "content": "Please tell me whether you think having casual sex can always be justified, never be justified, or something in between."
+    },
+    {
+      "id": "Q194",
+      "content": "Please tell me whether you think political violence can always be justified, never be justified, or something in between."
+    },
+    {
+      "id": "Q197",
+      "content": "Do you think the government should have the right to monitor all e-mails and any other information exchanged on the Internet?"
+    },
+    {
+      "id": "Q198",
+      "content": "Do you think the government should have the right to collect information about anyone living in this country without their knowledge?"
+    },
+    {
+      "id": "Q199",
+      "content": "How interested would you say you are in politics?"
+    },
+    {
+      "id": "Q200",
+      "content": "When you get together with your friends, would you say you discuss political matters frequently, occasionally, or never?"
+    },
+    {
+      "id": "Q201",
+      "content": "How often do you obtain information from a daily newspaper?"
+    },
+    {
+      "id": "Q202",
+      "content": "How often do you obtain information from TV news?"
+    },
+    {
+      "id": "Q203",
+      "content": "How often do you obtain information from radio news?"
+    },
+    {
+      "id": "Q204",
+      "content": "How often do you obtain information from your mobile phone?"
+    },
+    {
+      "id": "Q205",
+      "content": "How often do you obtain information from email?"
+    },
+    {
+      "id": "Q206",
+      "content": "How often do you obtain information from the Internet?"
+    },
+    {
+      "id": "Q209",
+      "content": "Have you ever signed a petition?"
+    },
+    {
+      "id": "Q210",
+      "content": "Have you ever joined in boycotts?"
+    },
+    {
+      "id": "Q211",
+      "content": "Have you ever attended peaceful demonstrations?"
+    },
+    {
+      "id": "Q212",
+      "content": "Have you ever joined strikes?"
+    },
+    {
+      "id": "Q213",
+      "content": "Have you ever donated to a group or campaign?"
+    },
+    {
+      "id": "Q214",
+      "content": "Have you ever contacted a government official?"
+    },
+    {
+      "id": "Q215",
+      "content": "Have you ever encouraged others to take action about political issues?"
+    },
+    {
+      "id": "Q216",
+      "content": "Have you ever encouraged others to vote?"
+    },
+    {
+      "id": "Q217",
+      "content": "Have you ever searched for information about politics and political events online?"
+    },
+    {
+      "id": "Q218",
+      "content": "Have you ever signed an electronic petition?"
+    },
+    {
+      "id": "Q219",
+      "content": "Have you ever encouraged other people to take any form of political action online?"
+    },
+    {
+      "id": "Q220",
+      "content": "Have you ever organized political activities, events, or protests online?"
+    },
+    {
+      "id": "Q221",
+      "content": "When elections take place at the local level, do you vote always, usually, or never?"
+    },
+    {
+      "id": "Q222",
+      "content": "When elections take place at the national level, do you vote always, usually, or never?"
+    },
+    {
+      "id": "Q224",
+      "content": "In your view, how often are votes counted fairly in this country's elections?"
+    },
+    {
+      "id": "Q225",
+      "content": "In your view, how often are opposition candidates prevented from running in this country's elections?"
+    },
+    {
+      "id": "Q227",
+      "content": "In your view, how often are voters bribed in this country's elections?"
+    },
+    {
+      "id": "Q228",
+      "content": "In your view, how often do journalists provide fair coverage of elections in this country?"
+    },
+    {
+      "id": "Q230",
+      "content": "In your view, how often do rich people buy elections in this country?"
+    },
+    {
+      "id": "Q231",
+      "content": "In your view, how often are voters threatened with violence at the polls in this country?"
+    },
+    {
+      "id": "Q232",
+      "content": "In your view, how often are voters offered a genuine choice in the elections in this country?"
+    },
+    {
+      "id": "Q233",
+      "content": "In your view, how often do women have equal opportunities to run for public office in this country?"
+    },
+    {
+      "id": "Q234",
+      "content": "How important would you say having honest elections is for you?"
+    },
+    {
+      "id": "Q235",
+      "content": "How do you feel about having a strong leader who does not have to bother with parliament and elections as a way of governing this country?"
+    },
+    {
+      "id": "Q236",
+      "content": "How do you feel about having experts, not government, make decisions according to what they think is best for the country?"
+    },
+    {
+      "id": "Q237",
+      "content": "How do you feel about having the army rule as a way of governing this country?"
+    },
+    {
+      "id": "Q238",
+      "content": "How do you feel about having a democratic political system as a way of governing this country?"
+    },
+    {
+      "id": "Q239",
+      "content": "How do you feel about having a system governed by religious law in which there are no political parties or elections?"
+    },
+    {
+      "id": "Q240",
+      "content": "In political matters, people often talk of 'the left' and 'the right.' How would you place your views on this scale, generally speaking?"
+    },
+    {
+      "id": "Q243",
+      "content": "How essential is it as a characteristic of democracy that people choose their leaders in free elections?"
+    },
+    {
+      "id": "Q244",
+      "content": "How essential is it as a characteristic of democracy that people receive state aid for unemployment?"
+    },
+    {
+      "id": "Q246",
+      "content": "How essential is it as a characteristic of democracy that civil rights protect people from state oppression?"
+    },
+    {
+      "id": "Q247",
+      "content": "How essential is it as a characteristic of democracy that the state makes people's incomes equal?"
+    },
+    {
+      "id": "Q249",
+      "content": "How essential is it as a characteristic of democracy that women have the same rights as men?"
+    },
+    {
+      "id": "Q250",
+      "content": "How important is it for you to live in a country that is governed democratically?"
+    },
+    {
+      "id": "Q251",
+      "content": "How democratically is this country being governed today?"
+    },
+    {
+      "id": "Q253",
+      "content": "How much respect is there for individual human rights nowadays in this country?"
+    },
+    {
+      "id": "Q254",
+      "content": "How proud are you to be [country's nationality]?"
+    },
+    {
+      "id": "Q255",
+      "content": "How close do you feel to your [village, town or city]?"
+    },
+    {
+      "id": "Q256",
+      "content": "How close do you feel to your [county, region, district]?"
+    },
+    {
+      "id": "Q257",
+      "content": "How close do you feel to your [country]?"
+    },
+    {
+      "id": "Q258",
+      "content": "How close do you feel to [continent; e.g., Europe, Asia, etc.]?"
+    }
+  ],
+  "test": [
+    {
+      "id": "Q2",
+      "content": "Friends: How important is it in your life?"
+    },
+    {
+      "id": "Q7",
+      "content": "Good manners: Do you consider it an important quality for children to learn?"
+    },
+    {
+      "id": "Q8",
+      "content": "Independence: Do you consider it an important quality for children to learn?"
+    },
+    {
+      "id": "Q9",
+      "content": "Hard work: Do you consider it an important quality for children to learn?"
+    },
+    {
+      "id": "Q13",
+      "content": "Thrift, saving money and things: Do you consider it an important quality for children to learn?"
+    },
+    {
+      "id": "Q23",
+      "content": "Would you not like to have people of a different religion as neighbors?"
+    },
+    {
+      "id": "Q24",
+      "content": "Would you not like to have heavy drinkers as neighbors?"
+    },
+    {
+      "id": "Q25",
+      "content": "Would you not like to have unmarried couples living together as neighbors?"
+    },
+    {
+      "id": "Q27",
+      "content": "One of my main goals in life has been to make my parents proud."
+    },
+    {
+      "id": "Q36",
+      "content": "Homosexual couples are as good parents as other couples."
+    },
+    {
+      "id": "Q40",
+      "content": "Work is a duty towards society."
+    },
+    {
+      "id": "Q41",
+      "content": "Work should always come first, even if it means less spare time."
+    },
+    {
+      "id": "Q51",
+      "content": "In the last 12 months, how often have you or your family gone without enough food to eat?"
+    },
+    {
+      "id": "Q56",
+      "content": "Comparing your standard of living with your parents' when they were about your age, would you say that you are:"
+    },
+    {
+      "id": "Q57",
+      "content": "Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people?"
+    },
+    {
+      "id": "Q58",
+      "content": "How much do you trust your family?"
+    },
+    {
+      "id": "Q60",
+      "content": "How much do you trust people you know personally?"
+    },
+    {
+      "id": "Q72",
+      "content": "How much confidence do you have in political parties?"
+    },
+    {
+      "id": "Q87",
+      "content": "How much confidence do you have in the World Bank?"
+    },
+    {
+      "id": "Q88",
+      "content": "How much confidence do you have in the World Health Organization (WHO)?"
+    },
+    {
+      "id": "Q98",
+      "content": "Are you an active member, an inactive member, or not a member of a sport or recreational organization?"
+    },
+    {
+      "id": "Q108",
+      "content": "How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between."
+    },
+    {
+      "id": "Q109",
+      "content": "How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between."
+    },
+    {
+      "id": "Q115",
+      "content": "How many local authorities do you believe are involved in corruption?"
+    },
+    {
+      "id": "Q126",
+      "content": "Do you agree that immigration increases the risks of terrorism?"
+    },
+    {
+      "id": "Q130",
+      "content": "What should the government do about people from other countries coming here to work?"
+    },
+    {
+      "id": "Q140",
+      "content": "Have you preferred not to go out at night for reasons of security?"
+    },
+    {
+      "id": "Q141",
+      "content": "Have you carried a knife, gun or other weapon for reasons of security?"
+    },
+    {
+      "id": "Q144",
+      "content": "Have you been the victim of a crime during the past year?"
+    },
+    {
+      "id": "Q151",
+      "content": "Of course, we all hope that there will not be another war, but if it were to come to that, would you be willing to fight for your country?"
+    },
+    {
+      "id": "Q152",
+      "content": "Which of the following goals should be the most important for the country over the next ten years?"
+    },
+    {
+      "id": "Q155",
+      "content": "Which of the following is the second most important for the country?"
+    },
+    {
+      "id": "Q167",
+      "content": "Do you believe in hell?"
+    },
+    {
+      "id": "Q174",
+      "content": "With which of the following statements do you agree most? The basic meaning of religion is:"
+    },
+    {
+      "id": "Q179",
+      "content": "Please tell me whether you think stealing property can always be justified, never be justified, or something in between."
+    },
+    {
+      "id": "Q180",
+      "content": "Please tell me whether you think cheating on taxes if you have a chance can always be justified, never be justified, or something in between."
+    },
+    {
+      "id": "Q184",
+      "content": "Please tell me whether you think abortion can always be justified, never be justified, or something in between."
+    },
+    {
+      "id": "Q189",
+      "content": "Please tell me whether you think a man beating his wife can always be justified, never be justified, or something in between."
+    },
+    {
+      "id": "Q190",
+      "content": "Please tell me whether you think parents beating children can always be justified, never be justified, or something in between."
+    },
+    {
+      "id": "Q195",
+      "content": "Please tell me whether you think the death penalty can always be justified, never be justified, or something in between."
+    },
+    {
+      "id": "Q196",
+      "content": "Do you think the government should have the right to keep people under video surveillance in public areas?"
+    },
+    {
+      "id": "Q207",
+      "content": "How often do you obtain information from social media (e.g., Facebook, Twitter)?"
+    },
+    {
+      "id": "Q208",
+      "content": "How often do you obtain information from talking with friends or colleagues?"
+    },
+    {
+      "id": "Q226",
+      "content": "In your view, how often does TV news favor the governing party in this country's elections?"
+    },
+    {
+      "id": "Q229",
+      "content": "In your view, how often are election officials fair in this country's elections?"
+    },
+    {
+      "id": "Q241",
+      "content": "How essential is it as a characteristic of democracy that governments tax the rich and subsidize the poor?"
+    },
+    {
+      "id": "Q242",
+      "content": "How essential is it as a characteristic of democracy that religious authorities ultimately interpret the laws?"
+    },
+    {
+      "id": "Q245",
+      "content": "How essential is it as a characteristic of democracy that the army takes over when government is incompetent?"
+    },
+    {
+      "id": "Q248",
+      "content": "How essential is it as a characteristic of democracy that people obey their rulers?"
+    },
+    {
+      "id": "Q252",
+      "content": "How satisfied are you with how the political system is functioning in your country these days?"
+    },
+    {
+      "id": "Q259",
+      "content": "How close do you feel to the world?"
+    }
+  ]
+}
